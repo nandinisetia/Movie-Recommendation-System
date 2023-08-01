@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# MOVIEVERSE-Movie-Recommendation-System
 At some point each one of us must have wondered where all the recommendations that Netflix, Amazon, Google give us, come from. We often rate products on the internet and all the preferences we express and data we share (explicitly or not), are used by recommender systems to generate, in fact, recommendations. The two main types of recommender systems are either collaborative or content-based filters. In this project we use a Content-Based Recommender System that recommends movies similar to the movie user likes. The dataset used to build this model is taken from kaggle. The frontend is made using StreamLit framework.
 ## Steps Involved are:
 ### Gather the data
